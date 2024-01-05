@@ -1,5 +1,5 @@
 {
-    "name": "akaunting/laravel-firewall",
+    "name": "matheus-carmo/laravel-firewall",
     "description": "Web Application Firewall (WAF) package for Laravel",
     "keywords": [
       "laravel",
@@ -18,6 +18,12 @@
             "name": "Denis Duliçi",
             "email": "info@akaunting.com",
             "homepage": "https://akaunting.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Matheus Carmo",
+            "email": "matheuscarmo@gmail.com",
+            "homepage": "https://matheus.com",
             "role": "Developer"
         }
     ],
